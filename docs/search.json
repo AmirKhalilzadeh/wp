@@ -1,0 +1,79 @@
+[
+  {
+    "objectID": "events.html",
+    "href": "events.html",
+    "title": "Events",
+    "section": "",
+    "text": "Workshop on Introduction to Artificial Intelligence\n\n\n\n\n\n\n\nWorkshop\n\n\nMachine Learning\n\n\nAI\n\n\n \n\n\n\n\nOct 10, 2024\n\n\n\n\n\n\n  \n\n\n\n\nMasterclass on NLP and text embeddings in Python\n\n\n\n\n\n\n\nMasterclass\n\n\nNLP\n\n\nPython\n\n\n \n\n\n\n\nSep 26, 2024\n\n\n\n\n\n\n  \n\n\n\n\nWorkshop on Applications of Machine Learning using Python\n\n\n\n\n\n\n\nWorkshop\n\n\nMachine Learning\n\n\nPython\n\n\n \n\n\n\n\nMar 23, 2024\n\n\n\n\n\n\n  \n\n\n\n\nBayesian A/B Testing using PyMC\n\n\n\n\n\n\n\nWorkshop\n\n\nBayes rule\n\n\nA/B Testing\n\n\nPyMC\n\n\n \n\n\n\n\nSep 30, 2023\n\n\n\n\n\n\n  \n\n\n\n\nWorkshop on how to identify an AI opportunity\n\n\n\n\n\n\n\nWorkshop\n\n\nMachine Learning\n\n\nAI opportunity\n\n\n \n\n\n\n\nJan 26, 2023\n\n\n\n\n\n\n  \n\n\n\n\nWorkshop on Introduction to Artificial Intelligence\n\n\n\n\n\n\n\nWorkshop\n\n\nMachine Learning\n\n\nAI\n\n\n \n\n\n\n\nJun 20, 2022\n\n\n\n\n\n\n  \n\n\n\n\nWorkshop on identifying an AI opportunity\n\n\n\n\n\n\n\nWorkshop\n\n\nMachine Learning\n\n\nAI opportunity\n\n\n \n\n\n\n\nOct 11, 2021\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "adsml.html",
+    "href": "adsml.html",
+    "title": "",
+    "section": "",
+    "text": "Our program consists of four modules where the first two focus on data analytics and the rest are about modeling, from plain linear regression to deep learning. At the end of these modules, we mentor students in doing a final capstone project. The program helps students use Python to analyze data of any type, from timeseries and text to spectrograms of an audio signal or image pixels. Aside from this program, we also develop, organise and deliver workshops to industry clients\nThe new version includes a new subject on time series analysis which I developed plus lots of other improvements and new contents."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Amir Khalilzadeh",
+    "section": "",
+    "text": "I am a product lead at the Continuing Education of EPFL and UNIL. I co-lead and teach a COS program, Applied Data Science and Machine Learning, to private individuals and professionals from local businesses, multinational companies and federal government institutions in Switzerland. I also deliver on-demand workshops to companies and organizations.\n\n\n\n\n2025/05 | a short course on LLMs is under construction 🚧 🤩\n2024/10 | delivered a 2-days workshop at Logitech\n2024/09 | delivered an NLP masterclass\n\n2024/03 | delivered a half-day hands-on workshop at AMLD\n2023/09 | delivered a 2-days hands-on workshop at the World Economic Forum\n2023/01 | delivered a full day workshop to Nestle\n2022/06 | delivered a full day workshop to World Trade Organization\n2021/10 | delivered a full day workshop to Total Energies\n2021/01 | we just lunched “That’s AI” platform for AI education 🎉\n2021/11 | we released a new version of our popular ADSML program after a year of development 💪 🥳\n\n\n\n\n\n2024/08 | now a Product Lead at the Continuing Education of EPFL and UNIL\n2023/08 | I am promoted to senior course developer and instructor at Extension School\n2021/01 | Extension School is now part of the Continuing Education of EPFL.\n2020/08 | I started a new role at an Edtech startup, Extension School, as a course developer and instructor.\n2018/09 | I started my postdoc at EPFL"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Amir Khalilzadeh",
+    "section": "",
+    "text": "I am a product lead at the Continuing Education of EPFL and UNIL. I co-lead and teach a COS program, Applied Data Science and Machine Learning, to private individuals and professionals from local businesses, multinational companies and federal government institutions in Switzerland. I also deliver on-demand workshops to companies and organizations.\n\n\n\n\n2025/05 | a short course on LLMs is under construction 🚧 🤩\n2024/10 | delivered a 2-days workshop at Logitech\n2024/09 | delivered an NLP masterclass\n\n2024/03 | delivered a half-day hands-on workshop at AMLD\n2023/09 | delivered a 2-days hands-on workshop at the World Economic Forum\n2023/01 | delivered a full day workshop to Nestle\n2022/06 | delivered a full day workshop to World Trade Organization\n2021/10 | delivered a full day workshop to Total Energies\n2021/01 | we just lunched “That’s AI” platform for AI education 🎉\n2021/11 | we released a new version of our popular ADSML program after a year of development 💪 🥳\n\n\n\n\n\n2024/08 | now a Product Lead at the Continuing Education of EPFL and UNIL\n2023/08 | I am promoted to senior course developer and instructor at Extension School\n2021/01 | Extension School is now part of the Continuing Education of EPFL.\n2020/08 | I started a new role at an Edtech startup, Extension School, as a course developer and instructor.\n2018/09 | I started my postdoc at EPFL"
+  },
+  {
+    "objectID": "events/amld24/index.html",
+    "href": "events/amld24/index.html",
+    "title": "Workshop on Applications of Machine Learning using Python",
+    "section": "",
+    "text": "This half-day hands-on workshop was held at the Applied Machine Learning Days 2024 in Lausanne. It was aimed for beginners and covered introduction to machine learning and three usecases in text classification, time series forecasting and anomaly detection. It turned out to be a success thanks to our team and the participants. It was a vibrant atmosphere in a large room with 110 seats.\nWe shared a GitHub repository to the participants that contained the python codes to run on Colab, Binder or their local machines. The room was full from start to end, and I was happy to see the enthusiasm of the participants. In future though, I would like to have more time for the workshop to give more time for participants to work on the exercises and to interact with them."
+  },
+  {
+    "objectID": "events/totsa/index.html",
+    "href": "events/totsa/index.html",
+    "title": "Workshop on identifying an AI opportunity",
+    "section": "",
+    "text": "It was a pleasure to deliver this workshop to a dynamic group of professionals from Totsa. The session kicked off with an introduction to the fundamentals of AI and ML, where we explored key concepts, real-world applications, and the transformative potential of AI across industries. By demystifying the technical jargon and providing practical examples, the goal was to ensure participants not only grasped the basics but also developed a clearer understanding of how AI can create value in their own work environments.\nIn the second half, we shifted gears into a more interactive mode by dividing participants into small groups. Each group was tasked with brainstorming AI opportunities specific to their daily work, and we provided guidance on how to identify and frame problems AI could solve. Teams worked through their ideas, and we later helped to refine their ideas. By the end of the session, they left with a greater sense of how to leverage AI to innovate within their organization."
+  },
+  {
+    "objectID": "events/logitec/index.html",
+    "href": "events/logitec/index.html",
+    "title": "Workshop on Introduction to Artificial Intelligence",
+    "section": "",
+    "text": "This 2-days workshop was held at the Logitech headquarters in Lausanne. It started with the basics of AI in day one and ended with topics such as multimodal learning, quantisation and RAG in day two. We had about 20 participants including some connecting from two other continents. Thanks to the supersmart participants (all section head engineers and VPs), we had an exciting and vibrant workshop. We had a lot of interesting discussions and questions.\nOne cool thing was that in the context of compute demand and GPUs, I was talking about AlexNet at the same day G. Hington recieved his well-deserved Nobel prize.\nThe highlight for me …, it was certainly sharing the corporate challenges by the participants."
+  },
+  {
+    "objectID": "events/masterclass/index.html",
+    "href": "events/masterclass/index.html",
+    "title": "Masterclass on NLP and text embeddings in Python",
+    "section": "",
+    "text": "This was a 90 minutes NLP masterclass. It started with a brief introduction to machine learning, followed by a hands-on session on text classification using Python. The goal was to build a spam detector using the SpamAssassin public email corpus. The data and codes were shared with the participants via Google Colab notebooks in a GitHub repository. In the first part, we followed the classic text cleaning and preprocessing steps and trained a classifier on cleaned data. In the second part, we used text embeddings extracted from Gecko model (Cloud Vertex AI) to train a classifier. The participants were able to compare the performance of the two classifiers and see the impact of text embeddings on the model performance."
+  },
+  {
+    "objectID": "events/wef/index.html",
+    "href": "events/wef/index.html",
+    "title": "Bayesian A/B Testing using PyMC",
+    "section": "",
+    "text": "In this engaging two-day workshop, we began with an interactive refresher on data analysis and statistics in Python, laying a solid foundation for the more advanced topics to come. As we transitioned into Bayesian statistics and A/B testing, the excitement in the room grew as everyone realized how powerful these tools can be for making informed, data-driven decisions.\nThroughout the sessions, I highlighted the various factors that can significantly impact A/B test results, such as sample size, test duration, and even the subtle influence of data variability. The real fun began when we rolled up our sleeves and implemented A/B testing in Python using the PyMC library. Watching participants write code, run experiments, and troubleshoot their own models was incredibly rewarding.\nQuarto saved me a lot of time in preparing the workshop materials and bringing codes into slides. Also simple Shiny apps that I created and put into the slides helped me to explain some of the concepts in a easy way and engage with the participants."
+  },
+  {
+    "objectID": "events/nestle/index.html",
+    "href": "events/nestle/index.html",
+    "title": "Workshop on how to identify an AI opportunity",
+    "section": "",
+    "text": "It was a pleasure to deliver this workshop to a dynamic group of marketing professionals from Nestlé. The session kicked off with an introduction to the fundamentals of AI and ML, where we explored key concepts, real-world applications, and the transformative potential of AI across industries. By demystifying the technical jargon and providing practical examples, the goal was to ensure participants not only grasped the basics but also developed a clearer understanding of how AI can create value in their own work environments.\nIn the second half, we shifted gears into a more interactive mode by dividing participants into small groups. Each group was tasked with brainstorming AI opportunities specific to their daily work, and we provided guidance on how to identify and frame problems AI could solve. Teams worked through their ideas, and we later helped to refine their ideas. By the end of the session, they left with a greater sense of how to leverage AI to innovate within their organization.\nDuring this second part, there was a pivotal moment when they realized that building an AI system wasn’t just about the technology, but fundamentally about the quality and availability of their data. This shift in mindset was a powerful lesson in the importance of data quality and problem framing, and a reminder that AI is a tool to enhance human decision-making, not a magic bullet."
+  },
+  {
+    "objectID": "events/wto/index.html",
+    "href": "events/wto/index.html",
+    "title": "Workshop on Introduction to Artificial Intelligence",
+    "section": "",
+    "text": "It was a pleasure to deliver this workshop to a dynamic group of professionals from World Trade Organization. The session kicked off with an introduction to the fundamentals of AI and ML, where we explored key concepts, real-world applications, and the transformative potential of AI across industries. By demystifying the technical jargon and providing practical examples, the goal was to ensure participants not only grasped the basics but also developed a clearer understanding of how AI can create value in their own work environments."
+  }
+]
