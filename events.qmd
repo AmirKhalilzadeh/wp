@@ -1,0 +1,26 @@
+---
+title: Events
+toc: false
+listing:
+  contents: events
+  sort: "date desc"
+  type: default
+  image-align: right
+  # image-height: 50px
+  categories: false
+  page-size: 20
+  sort-ui: false
+  filter-ui: false
+  fields: [title, image, categories, author, date]
+  # feed:
+  #   categories: ["R"]
+page-layout: full
+comments: false
+# twitter-card:
+#   image: /about_files/site_photo.jpg
+title-block-banner: false
+# image: /about_files/site_photo.jpg
+---
+::: {.column-page}
+
+:::

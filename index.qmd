@@ -1,0 +1,51 @@
+---
+title: "Amir Khalilzadeh"
+about:
+    template: trestles
+    links:
+        - icon: linkedin
+          text: LinkedIn
+          url: https://www.linkedin.com/in/amir-kh/
+        - icon: github
+          text: Github
+          url: https://github.com/AmirKhalilzadeh?tab=overview&from=2023-12-01&to=2023-12-31
+        - text: "{{< fa envelope >}} Email"
+          url: mailto:amirh.khalilzadeh@gmial.com
+image: img/amir_main.jpg
+comments: false
+---
+
+<!-- ![](/img/logo_red.png){fig-align="left"  width="100px"} -->
+
+
+## about me
+
+I am a product lead at the [Continuing Education](https://www.epfl.ch/education/continuing-education/) of EPFL and UNIL. I co-lead and teach a COS program, [Applied Data Science and Machine Learning](https://www.epfl.ch/education/continuing-education/applied-data-science-machine-learning/), to private individuals and industry professionals. I also (co)-deliver on-demand [workshops](events.qmd) to companies. 
+
+I spend my time helping people understand the underlying principles of data pipelines and machine learning, and guide them in framing their projects. I also drive strategic decision-making and shape product roadmaps within the continuing education space.
+
+
+
+
+
+#### Event updates 🤖🛠️
+
+- **2024/12** | our new [workshop](https://www.formation-continue-unil-epfl.ch/formation/ai-ml-essentials/) is now available for registration. Don't miss the webinar if you want to learn more about it, or just contact me directly
+- **2024/10** | co-delivered a 2-days [workshop](events/logitec/index.qmd) at Logitech
+- **2024/09** | delivered an NLP [masterclass](events/masterclass/index.qmd)   
+- **2024/03** | co-delivered a half-day hands-on [workshop](events/amld24/index.qmd) at AMLD
+- **2023/09** | delivered a 2-days hands-on [workshop](events/wef/index.qmd) at the World Economic Forum
+- **2023/01** | co-delivered a half-day [workshop](events/nestle/index.qmd) to Nestle
+- **2022/06** | co-delivered a half-day [workshop](events/wto/index.qmd) to World Trade Organization 
+- **2021/10** | co-delivered a half-day [workshop](events/totsa/index.qmd) to Total Energies
+- **2021/01** | we just lunched ["That’s AI"](https://www.thats-ai.org/en-GB) platform for AI education 🎉 and here is my piece on [financial systems](https://www.thats-ai.org/en-GB/units/ai-and-the-financial-system)
+- **2021/11** | we released a new version of our popular [ADSML program](https://www.epfl.ch/education/continuing-education/applied-data-science-machine-learning/) after a year of development 💪 🥳
+
+
+
+#### Career updates 🔔
+
+- **2024/08** | now a **Product Lead** at the Continuing Education of EPFL and UNIL
+- **2021/01** | Extension School is now part of the EPFL Continuing Education.
+- **2020/08** | I started a new role at an Edtech startup, Extension School, as a course developer and instructor.
+- **2018/09** | I started my postdoc at EPFL

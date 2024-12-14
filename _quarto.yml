@@ -1,0 +1,26 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+#  title: "personal website"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: events.qmd
+        text: Events
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    grid: 
+      body-width: 1100px
+      
+
+
+
+
+
