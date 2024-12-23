@@ -2,6 +2,7 @@
   {
     "listing": "/events.html",
     "items": [
+      "/events/chatbot/index.html",
       "/events/logitec/index.html",
       "/events/masterclass/index.html",
       "/events/amld24/index.html",

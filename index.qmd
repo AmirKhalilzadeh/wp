@@ -24,7 +24,7 @@ I am a product lead at the [Continuing Education](https://www.epfl.ch/education/
 
 I dedicate my time to helping others grasp the core principles of data pipelines and machine learning, while guiding them in framing and shaping their projects. 
 
-In the continuing education sector, I shape product strategies and roadmaps that bridge the gap between emerging technologies and practical learning needs. I enjoy working alongside my brilliant colleagues to push the boundaries of what's possible in tech education.
+I shape product strategies and roadmaps that bridge the gap between emerging technologies and practical learning needs. I enjoy working alongside my brilliant colleagues to push the boundaries of what's possible in tech education.
 
 
 
