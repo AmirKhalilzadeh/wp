@@ -22,14 +22,16 @@ comments: false
 
 I am a product lead at the [Continuing Education](https://www.epfl.ch/education/continuing-education/) of EPFL and UNIL. I co-lead and teach a COS program, [Applied Data Science and Machine Learning](https://www.epfl.ch/education/continuing-education/applied-data-science-machine-learning/), to private individuals and industry professionals. I also (co)-deliver on-demand [workshops](events.qmd) to companies. 
 
-I spend my time helping people understand the underlying principles of data pipelines and machine learning, and guide them in framing their projects. I also drive strategic decision-making and shape product roadmaps within the continuing education space.
+I dedicate my time to helping others grasp the core principles of data pipelines and machine learning, while guiding them in framing and shaping their projects. 
 
+In the continuing education sector, I shape product strategies and roadmaps that bridge the gap between emerging technologies and practical learning needs. I enjoy working alongside my brilliant colleagues to push the boundaries of what's possible in tech education.
 
 
 
 
 #### Event updates 🤖🛠️
 
+- **2024/12** | wrapping up 2024 and my toy app for continuing education. [Read more](events/chatbot/index.qmd)
 - **2024/12** | our new [workshop](https://www.formation-continue-unil-epfl.ch/formation/ai-ml-essentials/) is now available for registration. Don't miss the webinar if you want to learn more about it, or just contact me directly
 - **2024/10** | co-delivered a 2-days [workshop](events/logitec/index.qmd) at Logitech
 - **2024/09** | delivered an NLP [masterclass](events/masterclass/index.qmd)   
