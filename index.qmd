@@ -20,19 +20,17 @@ comments: false
 
 ## about me
 
-I am a product lead at the [Continuing Education](https://www.epfl.ch/education/continuing-education/) of EPFL and UNIL. I co-lead and teach a COS program, [Applied Data Science and Machine Learning](https://www.epfl.ch/education/continuing-education/applied-data-science-machine-learning/), to private individuals and industry professionals. I also (co)-deliver on-demand [workshops](events.qmd) to companies. 
+I manage a product portfolio and a small team of brilliant tech experts at the [Continuing Education](https://www.epfl.ch/education/continuing-education/) of EPFL-UNIL, where we design and deliver digital learning solutions in programming, data science and AI.
 
-I dedicate my time to helping others grasp the core principles of data pipelines and machine learning, while guiding them in framing and shaping their projects. 
-
-I shape product strategies and roadmaps that bridge the gap between emerging technologies and practical learning needs. I enjoy working alongside my brilliant colleagues to push the boundaries of what's possible in tech education.
+I co-lead and teach a COS program, [Applied Data Science and Machine Learning](https://www.epfl.ch/education/continuing-education/applied-data-science-machine-learning/), 
+to industry professionals and private individuals, and (co)-deliver on-demand [workshops](events.qmd) to companies in Switzerland. I also shape product strategies and roadmaps that pushes the boundaries of what's possible in tech education.
 
 
 
 
 #### Event updates 🤖🛠️
 
-- **2024/12** | wrapping up 2024 and my toy app for continuing education. [Read more](events/chatbot/index.qmd)
-- **2024/12** | our new [workshop](https://www.formation-continue-unil-epfl.ch/formation/ai-ml-essentials/) is now available for registration. Don't miss the webinar if you want to learn more about it, or just contact me directly
+- **2024/12** | **our new [AI workshop](https://www.formation-continue-unil-epfl.ch/formation/ai-ml-essentials/) is now open for registration**. Don't miss the webinars if you want to learn more about it, or just contact me directly
 - **2024/10** | co-delivered a 2-days [workshop](events/logitec/index.qmd) at Logitech
 - **2024/09** | delivered an NLP [masterclass](events/masterclass/index.qmd)   
 - **2024/03** | co-delivered a half-day hands-on [workshop](events/amld24/index.qmd) at AMLD
@@ -45,9 +43,12 @@ I shape product strategies and roadmaps that bridge the gap between emerging tec
 
 
 
-#### Career updates 🔔
+#### updates 🔔
 
-- **2024/08** | now a **Product Lead** at the Continuing Education of EPFL and UNIL
-- **2021/01** | Extension School is now part of the EPFL Continuing Education.
-- **2020/08** | I started a new role at an Edtech startup, Extension School, as a course developer and instructor.
+- **2025/08** | I'll officially continue as the **Team Lead**
+- **2025/02** | my toy ai agent developed and deployed on AWS [coming soon]()
+- **2024/12** | wrapping up 2024 and my toy ai app for continuing education ([read more](events/chatbot/index.qmd))
+- **2024/08** | now **Product Lead** at the Continuing Education of EPFL-UNIL
+- **2021/01** | Extension School is now part of the EPFL Continuing Education
+- **2020/08** | I started a new role at an Edtech startup, Extension School, as a course developer and instructor
 - **2018/09** | I started my postdoc at EPFL
