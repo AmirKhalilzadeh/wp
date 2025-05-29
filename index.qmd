@@ -29,10 +29,10 @@ to industry professionals and private individuals, and (co)-deliver on-demand [w
 
 #### Event updates 🤖🛠️
 
-🔔 **NEWS**: the 2nd edition of our [AI workshop](https://www.formation-continue-unil-epfl.ch/formation/ai-ml-essentials/) is now open for registration**. Don't miss the webinars if you want to learn more about it, or just contact me directly
+🔔 **NEWS**: the 2nd edition of our [AI workshop](https://www.formation-continue-unil-epfl.ch/formation/ai-ml-essentials/) is now open for registration. Don't miss the webinars if you want to learn more about it, or just contact me directly
 
 
-- **2025/05** | co-delivered the 1st round of our 2-days [ML-AI Essentials workshop](events/AIMLEssential/index.qmd) at EPFL
+- **2025/05** | co-delivered the 1st round of our 2-days [ML-AI Essentials workshop](events/aimlssential/index.qmd) at EPFL
 - **2024/10** | co-delivered a 2-days [workshop](events/logitec/index.qmd) at Logitech
 - **2024/09** | delivered an NLP [masterclass](events/masterclass/index.qmd)   
 - **2024/03** | co-delivered a half-day hands-on [workshop](events/amld24/index.qmd) at AMLD
